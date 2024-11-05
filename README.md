@@ -19,20 +19,10 @@
   <span style="background-color: #41B883; color: white; padding: 5px 10px; border-radius: 5px;">Vue.js</span>
 </div>
 
----
 
-Este bloque HTML crea etiquetas en una línea, con un color específico para cada tecnología:
 
-- **HTML**: #E34F26 (naranja)
-- **CSS**: #1572B6 (azul)
-- **JavaScript**: #F7DF1E (amarillo)
-- **PHP**: #4F5D95 (gris oscuro)
-- **Git**: #F05032 (rojo)
-- **Vue.js**: #41B883 (verde)
 
-Puedes ajustar los colores o añadir nuevas tecnologías según lo necesites. Al utilizar `flex-wrap`, los botones se adaptarán automáticamente si el espacio horizontal es insuficiente, manteniéndose alineados.
 
----
 
 ## 📊 **Redes Sociales y Comunidad**
 
